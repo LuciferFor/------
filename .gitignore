@@ -2,15 +2,14 @@
 *.tlog
 *.iobj
 *.obj
-*.vcxproj
 *.log
 *.pdb
 *.ipdb
 *.recipe
-*.filters
 *.user
 *.ipch
 *.db
 *.exe
 模型贴图检索/Release/模型贴图检索.vcxproj.FileListAbsolute.txt
 *.suo
+*.vsidx
